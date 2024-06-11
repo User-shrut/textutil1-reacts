@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/deply-textutils/static/css/main.2f7e547c.css",
+    "main.js": "/deply-textutils/static/js/main.fefa30e9.js",
+    "static/js/453.ed3810f9.chunk.js": "/deply-textutils/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/deply-textutils/index.html",
+    "main.2f7e547c.css.map": "/deply-textutils/static/css/main.2f7e547c.css.map",
+    "main.fefa30e9.js.map": "/deply-textutils/static/js/main.fefa30e9.js.map",
+    "453.ed3810f9.chunk.js.map": "/deply-textutils/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2f7e547c.css",
+    "static/js/main.fefa30e9.js"
+  ]
+}
