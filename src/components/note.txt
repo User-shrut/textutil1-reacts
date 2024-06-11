@@ -1,0 +1,5 @@
+lec16
+terminal===  npm install react-router-dom
+
+lec17
+terminal==npm run build     ==isse humara naya build nam ka folder bn jayega 
